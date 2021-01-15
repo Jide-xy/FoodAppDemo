@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FoodDeliveryDemo</string>
+    <string name="kazarov_ndelivery">Kazarov\ndelivery</string>
+    <string name="view_cart">View cart</string>
+    <string name="delivery_is_free">Delivery is free</string>
+</resources>
